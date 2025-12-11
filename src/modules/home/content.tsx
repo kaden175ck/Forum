@@ -1,11 +1,6 @@
-
-"use client";
-
 import CommentBtn from "@/modules/home/comment-btn";
 import Image from "next/image";
 import PostList from "./post-list";
-
-
 
 const Content = () => {
   return (
